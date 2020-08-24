@@ -1,0 +1,1 @@
+$(function(){$.scrollUp({scrollName:"scrollUp",scrollDistance:300,scrollSpeed:400,easingType:"linear",animation:"fade",animationSpeed:100,scrollImg:true,zIndex:2147483647,});});$(document).ready(function(){$('[data-toggle="tooltip"]').tooltip();});
